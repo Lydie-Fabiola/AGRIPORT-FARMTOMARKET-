@@ -4,7 +4,7 @@ body {
   font-family: "Segoe UI", sans-serif;
 
   /* ✅ Use only the filename since it's in the same folder */
-  background-image: url('buyer.jpg');
+  background-image: url('farmer.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,20 +19,17 @@ body {
   h1 {
     font-size: 3.7rem;
     font-weight: bold;
-    font-style: italic;
     margin-bottom: 20px;
   text-align: center;
-  color:  #c3e674;;
+  color: greenyellow;
 
     
   }
   
   p {
-    font-size: 2rem;
-    font-weight: bold;
-    font-style: italic;
+    font-size: 1.2rem;
     margin: 20px 0 40px;
-    color:  #c3e674;
+    color: #ffffff;
     line-height: 1.5;
     text-align: center;
   }
